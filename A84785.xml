@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from his Excellency the Lord Fairfax Generall of the Parliaments forces: concerning the surrender of Colchester, the grounds and reasons of putting to death Sir Charles Lucas and Sir George Lysle; with the articles and explanation of the same. Together with a list of all the prisoners taken, their numbers and qualities therein exprest. Read in the House of Peeres upon the 31 of Aug. 1648. And commanded to be printed and published.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84785</idno>
+            <idno type="STC">Wing F181</idno>
+            <idno type="STC">Thomason E461_35</idno>
+            <idno type="STC">ESTC R202094</idno>
+            <idno type="EEBO-CITATION">99862501</idno>
+            <idno type="PROQUEST">99862501</idno>
+            <idno type="VID">162184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162184)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from his Excellency the Lord Fairfax Generall of the Parliaments forces: concerning the surrender of Colchester, the grounds and reasons of putting to death Sir Charles Lucas and Sir George Lysle; with the articles and explanation of the same. Together with a list of all the prisoners taken, their numbers and qualities therein exprest. Read in the House of Peeres upon the 31 of Aug. 1648. And commanded to be printed and published.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>2 Septemb. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>Lisle, George, --  Sir, d. 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162184:1" rendition="simple:additions"/>
+            <p>A LETTER From his Excellency the Lord Fairfax Generall of the PARLIAMENTS FORCES: Concerning the ſurrender of COLCHESTER, THE Grounds and Reaſons of putting to death Sir CHARLES LUCAS and Sir GEORGE LYSLE; with the Articles and Explanation of the ſame.</p>
+            <p>Together with a Liſt of all the Priſoners taken, their numbers and qualities therein expreſt.</p>
+            <p>Read in the Houſe of Peeres upon the 31 of <hi>Aug.</hi> 1648. And commanded to be printed and publiſhed.</p>
+            <p>Imprinted at <hi>London,</hi> for <hi>John Wright</hi> at the Kings Head in the old Bayley, 2 <hi>Septemb.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162184:2"/>
+            <pb n="1" facs="tcp:162184:2"/>
+            <head>For the Right Honourable <hi>Edward</hi> Earl of Mancheſter, Speaker of the Houſe of Peeres <hi>Pro Tempore.</hi>
+            </head>
+            <opener>
+               <salute>My Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have herewith ſent you the Articles, with the Explanations annexed, upon which it hath pleaſed God in his beſt time to deliver the Town of <hi>Colcheſter,</hi> and the enemy there<g ref="char:EOLhyphen"/>in into your hands without further bloud<g ref="char:EOLhyphen"/>ſhed, ſaving that (for ſome ſatisfaction to Military Juſtice, and in part of avenge for the innocent bloud they have cauſed to be ſpilt, and the trou<g ref="char:EOLhyphen"/>ble, damage, and miſchiefe they have brought upon the Towne, this Country, and the Kingdome) I have with the advice of a Counſell of Warre of the chiefe Officers both of the Country Forces and the Army, cauſed two of them who were rendred at mercy to be ſhot to death before any of them had Quarter aſſured them. The perſons pitched upon for this example were, Sir <hi>Charles Lucas,</hi> and Sir <hi>George Liſle,</hi> in whoſe Military exe<g ref="char:EOLhyphen"/>cution I hope your Lordſhips will not finde cauſe to thinke your Honour or Juſtice prejudiced. As for the Lord <hi>Goring,</hi> Lord <hi>Ca<g ref="char:EOLhyphen"/>pell,</hi> and the reſt of the perſons rendred to mercy, and now aſſu<g ref="char:EOLhyphen"/>red of Quarter; of whoſe names I have ſent your Lordſhips a particular Liſt. I doe hereby render to the Parliaments judge<g ref="char:EOLhyphen"/>ment for further publique Juſtice and Mercy to be uſed as you ſhall ſee cauſe. I deſire God may have the glory of his multi<g ref="char:EOLhyphen"/>plyed mercies towards you and the Kingdome in this kinde, and in the condition of inſtruments as to the ſervice here, the Offi<g ref="char:EOLhyphen"/>cers and Souldiers of <hi>Eſſex</hi> and <hi>Suffolke</hi> (who in this time of ſo dangerous defection have adhered conſtant to yours and the Kingdomes intereſt) for their faithfull demeaſnour and patient indurance in the hardſhips of this ſervice are not to be forgotten.</p>
+            <closer>
+               <dateline>Hieth <date>29 Aug. 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servant <hi>T. Fairfax.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="articles_of_surrender">
+            <pb n="2" facs="tcp:162184:3"/>
+            <head>Articles agreed upon the <hi>27</hi> of <hi>Aug. 1648.</hi> by and betweene the Commiſſioners of his Excellency the Lord Generall <hi>Fairfax</hi> on th'one part, and the Commiſſioners of the Earl of <hi>Norwich,</hi> Lord <hi>Ca<g ref="char:EOLhyphen"/>pell,</hi> and Sir <hi>Charles Lucas</hi> on the other part, for and concerning the Rendition of the Town and Garriſon of <hi>Colcheſter.</hi>
+            </head>
+            <p n="1">I. THat all the horſes belonging to the Officers, Souldiers, and Gentlemen ingaged in <hi>Coloheſter,</hi> with Saddles and Bridles to them, ſhall be brought into <hi>Maries</hi> Church-yard by nine of the Clock to morrow morning, and the ſpare Saddles and Bri<g ref="char:EOLhyphen"/>dles into that Church, and delivered without wilfull ſpoyle to firch as the Lord Generall ſhall appoint to take charge of them.</p>
+            <p n="2">II. That all the Arms, Colours, and Drums belonging to any of the perſons in <hi>Colcheſter</hi> above mentioned, ſhall be brought into St. <hi>James</hi> Church by ten of the Clock to morrow morning and delivered without wilfull ſpoyle or imbeazlment to ſuch as the Lord Generall ſhall appoint to take charge of them.</p>
+            <p n="3">III. That all private Souldiers and Officers under Captaines, ſhall be drawne together into the Fryers yard adjoyning to the Eaſt Gate by ten of the Clock to morrow morning with their Clothes and Baggage, their perſons to be rendred into the cu<g ref="char:EOLhyphen"/>ſtody of ſuch as the Lord Generall ſhall appoint to take charge of them, and that they ſhall have faire Quarter according to the explanation made in the anſwer to the firſt Quaere of the Com<g ref="char:EOLhyphen"/>miſſioniers from <hi>Colcheſter</hi> which is hereunto annexed.</p>
+            <p n="4">IV. That the Lords, and all Captaines, and ſuperiour Offi<g ref="char:EOLhyphen"/>cers, and Gentlemen of quality ingaged in <hi>Colcheſter,</hi> ſhall be drawne together to the Kings Head, with their Clothes and Buggage by eleven of the Clock to morrow morning, and there render themſelves to the mercy of the Lord Generall, into the hands of ſuch as he ſhall appoint to take charge of them, and that a Liſt of the names of all the generall Officers, and Field-Officers now in command in the Towne be ſent out to the Lord Generall by nine of the Clock in the morning.</p>
+            <p n="5">V. That all the Guards within the Towne of <hi>Colcheſter</hi> ſhall be with-drawne from the Line, Forts, and other places by eight of the Clock to morrow morning, and ſuch as the Lord Gene<g ref="char:EOLhyphen"/>rall ſhall appoint ſhall thereupon come into their roomes.</p>
+            <p n="6">
+               <pb n="3" facs="tcp:162184:3"/> VI. That all the Ammunition ſhall be preſerved in the places where it lyes, to be delivered to the Comptroller of his Excel<g ref="char:EOLhyphen"/>lencies Traine by ten of the Clock to morrow morning; and all the Waggons belonging to the Souldery, or perſons engaged, with the Harneſſe belonging thereunto, ſhall be brought to ſome convenient place neare the Ammunition, to be delivered to the ſame perſon by the ſame houre.</p>
+            <p n="7">VII. That ſuch as are wounded and ſick in the Towne ſhall be there kept and provided for, with accommodation requiſite for men in their condition, and not removed thence untill they be recovered, or able without prejudice to their healths to re<g ref="char:EOLhyphen"/>move, and ſhall have ſuch Chyrurgions allowed to looke to them as are now in the Towne.</p>
+            <p n="8">VIII. That all Ordnance in the Towne, with their appurti<g ref="char:EOLhyphen"/>nances ſhall without wilfull ſpoyle be left at the ſeverall Plat<g ref="char:EOLhyphen"/>formes, or places where they are now planted, and ſo delivered to his Excellencies Guard that ſhall take the charge of thoſe pla<g ref="char:EOLhyphen"/>ces reſpectively.</p>
+            <p n="9">IX. That from henceforth there ſhall be a Ceſſation of Arms on hoth parts, but the Forces within the Town to keep their own Guards, and the Lord Generalls to keepe theirs untill they ſhall be removed according to the Articles afore-going.</p>
+            <closer>
+               <signed>Signed by Us
+<list>
+                     <head>The Commiſſioners on the behalfe of his Excellency the Lord <hi>Fairfax.</hi>
+                     </head>
+                     <item>THo. Honywood</item>
+                     <item>H. Ireton</item>
+                     <item>Tho. Rainsborowe</item>
+                     <item>Edward Whalley</item>
+                     <item>Wil. Bloys</item>
+                     <item>Bram. Gurdon</item>
+                     <item>J. Sparrow</item>
+                     <item>Iſaac Ewer</item>
+                     <item>Tho. Cooke</item>
+                     <item>G. Barnardiſton</item>
+                  </list>
+                  <list>
+                     <head>The Commiſſioners on the behalf of the E. of <hi>Norwich,</hi> the L. <hi>Capel,</hi> and Sir <hi>Charles Lucas.</hi>
+                     </head>
+                     <item>WIlliam Compton</item>
+                     <item>Ab. Shipman</item>
+                     <item>Edw. Hammond.</item>
+                     <item>S. Tuke</item>
+                     <item>William Ayloffe</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="questions_concerning_articles_of_surrender">
+            <pb n="4" facs="tcp:162184:4"/>
+            <opener>
+               <dateline>Heith, <date>Auguſt 27. 1648.</date>
+               </dateline>
+            </opener>
+            <head>Quaeries propounded by the Commiſſioners from <hi>Colcheſter,</hi> to the Commiſſioners of his Excel<g ref="char:EOLhyphen"/>lency the Lord <hi>Fairfax,</hi> upon the Conditions ſent into the Towne.</head>
+            <p n="1">1. <hi>WHat is meant by faire Quarter?</hi>
+            </p>
+            <p n="2">2. <hi>What by rendring to Mercy?</hi>
+            </p>
+            <p>
+               <label>To the firſt.</label> BY faire Quarter we underſtand, That with Quarter for their lives they ſhall be free from wounding or beating; ſhall enjoy warme clothes to cover them and keep them warme; ſhall be maintained with victuals fit for priſoners while they ſhall be kept priſoners.</p>
+            <p>
+               <label>To the ſecond.</label> By rendring to mercy we underſtand, That they be rendred or render themſelves to the Lord Generall, or whom he ſhall appoint, without certaine aſſurance of Quarter, ſo as the Lord Generall may be free to put ſome immediately to the ſword (if he ſee cauſe) although his Excellency intends chiefly and for the generality of thoſe under that condition, to ſurrender them to the mercy of the Parliament and Generall. There hath been large experience, neither hath his Excellency given cauſe to doubt of his civility to ſuch as he ſhall retaine priſoners, al<g ref="char:EOLhyphen"/>though by their being rendred to mercy, he ſtands not engaged thereby.</p>
+            <div type="part">
+               <head>Upon returne of theſe Anſwers the Commiſſioners from <hi>Col<g ref="char:EOLhyphen"/>cheſter</hi> propounded theſe two further Quaeries.</head>
+               <p n="1">1. <hi>VVHether theſe that were ſurrendred to mercy, ſhall enjoy their wearing clothes, as well thoſe on their backs, as what other change they have.</hi>
+               </p>
+               <p n="2">2. <hi>Whether the Noblemen and Officers ſhall have uſe of their owne Horſes to the places where they ſhall be confined.</hi>
+               </p>
+               <p>To which was anſwered by his Excellencies Commiſſioners.</p>
+               <pb n="5" facs="tcp:162184:4"/>
+               <p>
+                  <label>To the firſt.</label> IT is intended that thoſe who ſhall be tendred and received to mercy, ſhall enjoy the wearing clothes on their backs; but for more the Generall will not be ingaged.</p>
+               <p>
+                  <label>To the ſecond.</label> It is expected (in caſe of ſurrender upon Treaty) That all Hor<g ref="char:EOLhyphen"/>ſes as well as Arms be delivered up, and for circumſtances there<g ref="char:EOLhyphen"/>of there is to be an Article yet for the Gentlemen and Officers under this condition in queſtion, (when any of them ſhall be removed to the places of confinement) his Excellency will take care for Horſes to carry them (with reſpect to their qualities,) but for allowing their owne Horſes he will not be ingaged.</p>
+            </div>
+            <div type="list_of_prisoners">
+               <head>A Liſt of the Priſoners taken at the ſurrender of <hi>Col<g ref="char:EOLhyphen"/>cheſter</hi> the 28 of <hi>Auguſt.</hi> 1648.</head>
+               <list>
+                  <item>THe Earle of Norwich Col.</item>
+                  <item>The Lord Capell</item>
+                  <item>The Lord Loughborow</item>
+                  <item>Sir Charles Lucas Col.</item>
+                  <item>Sir William Compton Col.</item>
+                  <item>Sir George Lyſle</item>
+                  <item>Sir Barnard Gaſcoyne</item>
+                  <item>Sir Abraham Shipman</item>
+                  <item>Sir John Watts</item>
+                  <item>Sir Lodowick Dyer</item>
+                  <item>Sir Hen. Apleton</item>
+                  <item>Sir Dennard Strutt</item>
+                  <item>Sir Hugh Oriley</item>
+                  <item>Sir Richard Maulyverer <hi>made an eſcape, but ſince taken.</hi>
+                  </item>
+                  <item>Quartermaſter Generall Carter</item>
+                  <item>Col. Gilburne</item>
+                  <item>Col. Farr <hi>eſcaped and taken</hi>
+                  </item>
+                  <item>Col. Hammond</item>
+                  <item>Col. Cheſter</item>
+                  <item>Col. Till</item>
+                  <item>Col. Heath</item>
+                  <item>Col. Tuke</item>
+                  <item>Col. Ayloffe</item>
+                  <item>Col. Sawyer.</item>
+                  <item>Lievt. Col. Culpepper</item>
+                  <item>Lievt. Col. Lancaſter</item>
+                  <item>Lievt. Col. Gough</item>
+                  <item>Lievt. Col. Powell</item>
+                  <item>Lievt. Col. Aſhton</item>
+                  <item>Lievt. Col. Baggley</item>
+                  <item>Lievt. Col. Wiſeman</item>
+                  <item>Lievt. Col. Smith.</item>
+                  <item>Major Aeſcot</item>
+                  <item>Major Smith</item>
+                  <item>Major Armeſtrong</item>
+                  <item>Major Warde</item>
+                  <item>Major Bayley</item>
+                  <item>Major Reade</item>
+                  <item>Major Scarrow</item>
+                  <item>Major Blyncott</item>
+                  <item>Major Genings.</item>
+                  <pb n="6" facs="tcp:162184:5"/>
+                  <item> Capt. Wicks</item>
+                  <item>Capt. Pits</item>
+                  <item>Capt. Buley</item>
+                  <item>Capt. Burdge</item>
+                  <item>Capt. Bartrope</item>
+                  <item>Capt. Lynſey</item>
+                  <item>Capt. Myldmay</item>
+                  <item>Capt. Osbolſton</item>
+                  <item>Capt. Eſtwick</item>
+                  <item>Capt. Lovell</item>
+                  <item>Capt. Cooper</item>
+                  <item>Capt. Blunt</item>
+                  <item>Capt. Snellgrave</item>
+                  <item>Capt. Dynors</item>
+                  <item>Capt. Duſſen</item>
+                  <item>Capt. Lievt. Caninge</item>
+                  <item>Capt. Ward</item>
+                  <item>Capt. Busbey</item>
+                  <item>Capt. Payne</item>
+                  <item>Capt. Hemor</item>
+                  <item>Capt. Smith</item>
+                  <item>Capt. Kenington</item>
+                  <item>Capt. Heath</item>
+                  <item>Capt. Rawſon</item>
+                  <item>Capt. Bayley</item>
+                  <item>Capt. Stephens</item>
+                  <item>Capt. Gennings</item>
+                  <item>Capt. Lodge</item>
+                  <item>Capt. Lynn</item>
+                  <item>Capt. Lievt. White.</item>
+                  <item>Edw. Goodyeare Marſhall Gen.</item>
+                  <item>Commiſſary Generall Trouley</item>
+                  <item>Fran. Loveleſſe Maſter of the Ord<g ref="char:EOLhyphen"/>nance</item>
+                  <item>VVaggon-maſter Gen. Graviſden</item>
+                  <item>Servants attending upon the Lords and Gentlemen 65.</item>
+                  <item>Lievtenants 72.</item>
+                  <item>Enſignes and Cornets 69.</item>
+                  <item>Serjeants 183.</item>
+                  <item>Private Souldiers 3067.</item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
